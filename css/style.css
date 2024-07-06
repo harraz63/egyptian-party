@@ -170,11 +170,11 @@
   margin-right: 20px;
   color: #777;
 }
-.contact-us .contact-info .social-links {
+.contact-us .contact-info .social-links a {
   margin-top: 50px;
   color: #777;
 }
-.contact-us .contact-info .social-links i {
+.contact-us .contact-info .social-links a i {
   margin-right: 10px;
   border: 1px solid #999;
   width: 40px;
